@@ -21,7 +21,7 @@ Hint: To check for the current working directory using the available notebooks j
 
 For this project, I was interested in learning the concepts of DeepLearning from scratch.
 
-We will begin with the simplest Neural Network the Perceptron and explore our way to building a gigantic DeepLearning network to do Image processsing.
+We will begin with the simplest Neural Network, the Perceptron and explore our way to finally building a gigantic DeepLearning network to do Image processing.
 
 ## File Descriptions <a name="files"></a>
 
