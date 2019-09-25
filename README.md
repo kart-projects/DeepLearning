@@ -27,8 +27,7 @@ We will begin with the simplest Neural Network, the Perceptron and explore our w
 
 There are two main files in this repo.
 1. iris.csv - The dataset we will start exploring.
-2. Perceptron.ipynb - The first python notebook to begin our journey to master DeepLearning concepts.
-
+2. Perceptron.ipynb - The first python notebook to begin our journey to master DeepLearning concepts. Here we will explore the Perceptron model, the simplest Neural Network model that we can build.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
